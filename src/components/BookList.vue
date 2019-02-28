@@ -43,5 +43,3 @@ ul{
     padding: 0;
 }
 </style>
-
-
